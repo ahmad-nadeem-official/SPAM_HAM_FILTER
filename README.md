@@ -1,6 +1,6 @@
 # **🚀 Spam Email Filter - The Ultimate Machine Learning Solution!**
 
-![Banner](/home/muhammad-ahmad-nadeem/Projects/SPAM_HAM_FILTER/spam_ham/media/cinnamon-2025-01-03T104856+0500.webm)
+![Banner](cinnamon-2025-01-03T104856+0500.webm)
 
 ## **Welcome to the Future of Email Filtering!**
 
